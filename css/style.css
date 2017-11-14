@@ -11,7 +11,7 @@ body {
 }
 
 .wrapper {
-	width: inherit;
+	width: 1000px;
 	margin: 0 auto;
 	background: #fff;
 	padding-top: 0px;
@@ -41,12 +41,12 @@ h2 {
 
 }
 
-.logo {
+/*.logo {
   display: inline-block;
 	width: inherit;
 	margin-bottom: 20px;
 	padding: auto;
-
+*/
 }
 
 
