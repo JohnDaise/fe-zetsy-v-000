@@ -40,7 +40,7 @@ h2 {
 
 .logo {
   display: inline-block;
-	width: 100%;
+	width: inherit;;
 }
 
 
