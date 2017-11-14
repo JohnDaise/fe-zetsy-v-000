@@ -11,7 +11,7 @@ body {
 }
 
 .wrapper {
-	width: 100%;
+	width: inherit;;
 	margin: 0 auto;
 	background: #fff;
 	padding-top: 0px;
