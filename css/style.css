@@ -57,6 +57,11 @@ img {
 		border-color: rgb(202, 204, 203);
 }
 
+img:hover {
+	border-color: rgb(114,	127,	122);
+}
+
+
 
 
 
@@ -71,8 +76,5 @@ a:visited{
 	color: purple
 }
 
-img:hover {
-	border-color: rgb(114,	127,	122);
-}
 
 /* Write all remaining styles here */
