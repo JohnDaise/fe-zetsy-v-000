@@ -49,7 +49,7 @@ h2 {
 .press{
 	width: auto;
 	margin: auto;
-	display: inline;
+	display: inline-block;
 
 
 }
