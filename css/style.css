@@ -80,7 +80,7 @@ img:hover {
 /*////////// Paragraph Styles //////////*/
 
 p {
-	width: auto;
+	width: inherit;;
 }
 
 
