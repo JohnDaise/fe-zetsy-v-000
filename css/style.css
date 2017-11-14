@@ -43,10 +43,9 @@ h2 {
 
 .logo {
   display: inline-block;
-	max-width: auto;
-	max-height: auto;
 	width: inherit;
 	margin-bottom: 20px;
+
 }
 
 
