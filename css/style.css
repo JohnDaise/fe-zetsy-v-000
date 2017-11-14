@@ -51,11 +51,13 @@ h2 {
 */
 .about {
 	width: auto;
+	display:inline-block;
 }
 
 .press{
 	width: auto;
 	margin: inherit;
+	display:inline-block;
 
 }
 
@@ -63,6 +65,7 @@ h2 {
   float: right;
 	margin-top: 20px;
 	width: auto;
+	display:inline-block;
 }
 
 * {
