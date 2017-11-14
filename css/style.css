@@ -23,7 +23,7 @@ body {
 }
 
 .header {
-	font-size: 4em;
+	font-size: 6em;
 	font-family: 'Baskerville', serif;
 	color: rgb(163, 178, 173	);
 	opacity: 60%;
@@ -54,7 +54,7 @@ h2 {
 
 .press{
 	width: auto;
-	margin: inherit;;
+	margin: inherit;
 
 }
 
