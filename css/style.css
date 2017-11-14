@@ -77,8 +77,11 @@ img:hover {
 	border-color: rgb(114,	127,	122);
 }
 
+/*////////// Paragraph Styles //////////*/
 
-
+p{
+	width: auto;
+}
 
 
 /*////////// Links //////////*/
