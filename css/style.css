@@ -46,8 +46,10 @@ h2 {
 	width: inherit;
 	margin-bottom: 20px;
 	padding: auto;
-*/
+
 }
+*/
+
 
 
 .footer {
@@ -75,13 +77,6 @@ img {
 
 img:hover {
 	border-color: rgb(114,	127,	122);
-}
-
-/*////////// Paragraph Styles //////////*/
-
-p {
-	max-width: 100%;
-	max-height: 100%;
 }
 
 
