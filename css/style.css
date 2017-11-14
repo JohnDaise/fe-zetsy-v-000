@@ -43,6 +43,14 @@ body {
   box-sizing: border-box;
 }
 
+/*////////// Links //////////*/
+
+a: hover {
+	color: 
+	background-color: grey
+
+}
+
 
 
 /* Write all remaining styles here */
