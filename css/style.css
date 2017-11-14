@@ -56,9 +56,9 @@ img {
 
 /*////////// Links //////////*/
 
-a: hover {
-	color: 112 125	121
-	background-color: 202	204	203
+a {
+	color: rgb(113, 151, 192);
+	b
 
 }
 
