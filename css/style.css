@@ -65,8 +65,9 @@ a:visited{
 	color: purple
 }
 
-a:hover, a:active{
-	color: rgb(114,	127,	122);
+a:hover{
+
+	border-color: rgb(114,	127,	122);
 }
 
 /* Write all remaining styles here */
