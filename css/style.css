@@ -39,7 +39,7 @@ h2 {
 }
 
 .logo {
-  display: inline-flex;
+  display: inline-block;
 	max-width: auto;
 	max-height: auto;
 	width: inherit;
